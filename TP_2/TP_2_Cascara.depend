@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1505864802 source:c:\users\alumno\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1505864837 c:\users\alumno\desktop\tp_2_cascara\funciones.h
+
+1505831625 source:c:\users\daniel neyra\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1505831395 c:\users\daniel neyra\desktop\tp_2_cascara\funciones.h
+
+1505831806 source:c:\users\daniel neyra\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1505863604 source:c:\users\alumno\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506049128 source:e:\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506050866 e:\tp_2_cascara\funciones.h
+
+1506049836 source:e:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506117216 source:f:\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506114926 f:\tp_2_cascara\funciones.h
+
+1506117976 source:f:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506117216 source:e:\estructuras\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506114926 e:\estructuras\tp_2_cascara\funciones.h
+
+1506118038 source:e:\estructuras\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506898740 source:c:\users\silvia\desktop\tp_2_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506899162 c:\users\silvia\desktop\tp_2_\funciones.h
+
+1506899777 source:c:\users\silvia\desktop\tp_2_\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506899778 source:e:\random\estructuras\tp_2_\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506899164 e:\random\estructuras\tp_2_\funciones.h
+
+1506898742 source:e:\random\estructuras\tp_2_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
